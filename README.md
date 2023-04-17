@@ -1,7 +1,8 @@
 # Nvim-Config
-# Dependecies:
+## Dependecies:
  - Neovim
- # Installation
-# Default Kemaps:
+ 
+## Default Kemaps:
 -coming soon
+## Installation
 Clone Repository Content into ~/.config
