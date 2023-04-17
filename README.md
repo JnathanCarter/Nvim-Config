@@ -3,4 +3,4 @@
  - Neovim
  # Installation
  
-Clone Directory into ~/.config
+Clone Repository Content into ~/.config
