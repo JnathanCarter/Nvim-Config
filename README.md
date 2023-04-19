@@ -5,4 +5,6 @@
 ## Default Kemaps:
 -coming soon
 ## Installation
-Clone Repository Content into ~/.config
+```
+cd ~/.config && git clone https://github.com/JnathanCarter/Nvim-Config nvim
+```
