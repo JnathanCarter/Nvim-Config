@@ -1,6 +1,6 @@
 # Nvim-Config
 ## Dependecies:
- - Neovim
+ - Neovim Version 0.9+
  
 ## Default Kemaps:
 -coming soon
