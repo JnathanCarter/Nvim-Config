@@ -1,3 +1,4 @@
+****DEPRECATED****
 # Nvim-Config
 My personel configuration of Neovim utilizing:
 - Treesitter
